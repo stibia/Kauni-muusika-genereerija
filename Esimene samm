@@ -1,0 +1,9 @@
+import winsound
+
+winsound.PlaySound('C4.wav', winsound.SND_FILENAME)
+winsound.PlaySound('D4.wav', winsound.SND_FILENAME)
+winsound.PlaySound('E4.wav', winsound.SND_FILENAME)
+winsound.PlaySound('F4.wav', winsound.SND_FILENAME)
+winsound.PlaySound('G4.wav', winsound.SND_FILENAME)
+
+# OMG, see on heli!
